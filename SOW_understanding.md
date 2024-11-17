@@ -2,14 +2,13 @@
 
 ### Understanding of "Ask Emily" Project Requirements
 
-After a detailed review of the requirements document for the "Ask Emily" project, we have identified the following key features and functionalities essential for the development and operation of this AI-powered system:
-
+After a detailed review of the requirements document for the "Ask Emily" project, we have identified the following key features and functionalities essential for the development and operation of this AI-powered system.
 #### 1. Core Components:
 - **AI Trip Planner and Travel Advisor**:
   - The system needs to utilize exclusive datasets, including campgrounds, RV parks, revenue partnerships, and events, to generate personalized trip recommendations. This will involve analyzing user preferences and historical data to provide routes, campgrounds, and nearby services tailored to individual users.
 
 - **GPS Navigation System**:
-  - Integration with Google Maps and Waze is critical for custom RV routing. The system should consider the RV/rig's type, size, and specifications when suggesting routes to ensure safety and suitability.
+  - Integration with Google Maps is critical for custom RV routing. The system should consider the RV/rig's type, size, and specifications when suggesting routes to ensure safety and suitability.
   - Incorporation of bridge height and clearance data is necessary to prevent clearance issues along the selected travel routes.
   - Fuel station integration will offer locations of fuel stations emphasizing diesel options and up-to-date pricing information.
 
